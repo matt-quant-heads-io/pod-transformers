@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+dt_train_data/
 
 # C extensions
 *.so
